@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T05:48:55.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="p9rQzqpiKSAXDf5F7GRd" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-26T05:49:19.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4Y9tkP2mN_IOymuBSXRi" version="20.7.4" type="github">
   <diagram id="wYuMe5kM4yV2TnEpnyqj" name="Page-1">
     <mxGraphModel dx="1034" dy="1504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
           <mxGeometry x="740" y="280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQzlx6IFT9ufVY_56LJa-14" value="Patient pay_v3 schema" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1030" width="50" height="70" as="geometry" />
+          <mxGeometry x="90" y="1020" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PQzlx6IFT9ufVY_56LJa-15" value="DB(Bills_db)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="770" y="1000" width="40" height="60" as="geometry" />
