@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T06:47:47.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="JI1BsBw8zUfH3fBaLP3e" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T06:49:10.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="po7tkA8A6qifzVSuofcF" version="20.7.4" type="github">
   <diagram id="wYuMe5kM4yV2TnEpnyqj" name="Page-1">
     <mxGraphModel dx="1034" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -307,9 +307,6 @@
         </mxCell>
         <mxCell id="qWOGVFFtntJJE9gUK_nl-4" value="It DECIDES&amp;nbsp; on which topic it should produce based on the client id" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="360" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qWOGVFFtntJJE9gUK_nl-6" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="510" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
