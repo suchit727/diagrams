@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T11:08:08.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="0lw0bU3YBDu7Bwceb8pW" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T11:20:06.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="rnyfSZC71JswyCxEE9qh" version="20.7.4" type="github">
   <diagram id="wYuMe5kM4yV2TnEpnyqj" name="Page-1">
-    <mxGraphModel dx="794" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,7 +24,7 @@
           <mxGeometry x="375" y="280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQzlx6IFT9ufVY_56LJa-10" value="S3 Bucket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="720" y="17" width="100" height="40" as="geometry" />
+          <mxGeometry x="730" y="17" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AHBBiQd-p7hIOELKxNmG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PQzlx6IFT9ufVY_56LJa-11" target="PQzlx6IFT9ufVY_56LJa-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -167,7 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PQzlx6IFT9ufVY_56LJa-26" value="Raw File Service" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="365" y="28" width="120" height="40" as="geometry" />
+          <mxGeometry x="365" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AHBBiQd-p7hIOELKxNmG-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="PQzlx6IFT9ufVY_56LJa-48" target="PQzlx6IFT9ufVY_56LJa-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -184,7 +184,7 @@
           <mxGeometry x="210" y="140" width="112" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AHBBiQd-p7hIOELKxNmG-14" value="raw file service moves s3 client files to s3 bucket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="10" width="110" height="18" as="geometry" />
+          <mxGeometry x="590" y="62" width="110" height="18" as="geometry" />
         </mxCell>
         <mxCell id="AHBBiQd-p7hIOELKxNmG-24" value="MetaData sending" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="475" y="100" width="60" height="30" as="geometry" />
