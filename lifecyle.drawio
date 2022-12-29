@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T08:46:10.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="DM9kUh9kVz2mPSRqcyzE" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T09:02:34.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="0mc07i4Ym6ExjGksCMuQ" version="20.7.4" type="github">
   <diagram id="X5eVyxBBUR0pe63SNbm6" name="Page-1">
     <mxGraphModel dx="985" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -134,6 +134,9 @@
         </mxCell>
         <mxCell id="Alj1mJm6DEPnhoRsIBkS-11" value="suppose if in staging 2.3.1 is failed then 2.3.1 comes back to release branch and we create bug fix branch in that we fix bug and push to developed and release" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="700" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Alj1mJm6DEPnhoRsIBkS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.611;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hTP6V9SCzQXQDpiUwqgs-21" target="hTP6V9SCzQXQDpiUwqgs-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
